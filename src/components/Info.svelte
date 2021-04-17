@@ -2,7 +2,7 @@
 
 <section>
   <div>
-    <h2></h2>
+    <h2>Face Detektor</h2>
     <p>
     
   </div>
