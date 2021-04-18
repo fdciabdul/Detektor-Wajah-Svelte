@@ -3,8 +3,7 @@
 <section>
   <div>
     <h2>Face Detektor</h2>
-    <p>
-    
+  
   </div>
 </section>
 
@@ -32,16 +31,6 @@
     border-bottom: 1px solid var(--divider);
   }
 
-  p {
-    line-height: 2;
-    color: var(--primary-text);
-    padding: 1rem;
-  }
 
-  a,
-  a:focus,
-  a:visited,
-  a:active {
-    color: var(--dark-primary);
-  }
+ 
 </style>
